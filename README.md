@@ -1,2 +1,2 @@
-# Super-Project
+# Project
 This is major Project
